@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.203618in" height="0.203618in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 12 12"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="999" font-variant="normal" class="str0" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Webdings">
+		<font-face-src>
+			<font-face-name name="Webdings"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="~" horiz-adv-x="999" d="M920.999 722.005l-369.503 -676 -102.004 193.998 -369.486 -351.999 375.835 649.996 102.992 -168.67 362.165 352.676z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Webdings";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke-width:13.2188}
+    .str1 {stroke:white;stroke-width:0.183554}
+    .fil0 {fill:white}
+    .fnt0 {font-weight:normal;font-size:13.8858px;font-family:'Webdings'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2159125099184">
+   <path class="fil0" d="M6 0c2,0 3,1 4,2l-1 1c-1,-1 -2,-2 -4,-2 -3,0 -5,2 -5,5 0,1 0,2 1,3l-1 1c-1,-1 -1,-2 -1,-4 0,-3 3,-6 6,-6zm5 3c1,1 1,2 1,4 0,3 -3,6 -6,6 -2,0 -3,-1 -4,-2l1 -1c1,1 2,1 4,1 3,0 5,-2 5,-5 0,-1 0,-2 -1,-3l1 -1z"/>
+   <g transform="matrix(0.999477 0.0323428 -0.0323428 0.999477 -96.0791 -194.907)">
+    <text x="102" y="202"  class="fil0 str1 fnt0">~</text>
+   </g>
+  </g>
+ </g>
+</svg>
